@@ -17,5 +17,5 @@ patches:
 images:
 - name: ktdseduacr.azurecr.io/edu29/samplejava
   newName: ktdseduacr.azurecr.io/edu29/samplejava
-  newTag: v20251020163526
+  newTag: v20251020165630
 
